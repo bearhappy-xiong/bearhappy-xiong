@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bearhappy-xiong
 - 🌱 I’m currently learning reinforcement learning
-- 📫 How to reach me: [📧Gmail](mailto: xiongxi12138@gmail.com)
+- 📫 How to reach me: [📧Gmail](mailto:xiongxi12138@gmail.com)
 
 <!---
 bearhappy-xiong/bearhappy-xiong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
